@@ -1,0 +1,6 @@
+{
+  "name": "SahayMart - Elder-Centric Quick-Commerce",
+  "description": "Interaction-Aware Adaptive Conversational AI for Elder-Centric Quick-Commerce: simplified multimodal shopping with dynamic assistance state estimation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
